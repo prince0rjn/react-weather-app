@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+This is the search bar. It show the avaliable list of cities based on users input
+![image](https://github.com/prince0rjn/react-weather-app/assets/123549324/990e03fb-d1dc-488e-bef3-575f44d1b09b)
+
+After selecting the city the user gets the todays weather and forecast of next 7 days weather
+![image](https://github.com/prince0rjn/react-weather-app/assets/123549324/e370469e-87f4-4baf-91db-bd22fdf30d27)
+
+User can click and expand any future forecast to see more details about the weather on that particular day
+![image](https://github.com/prince0rjn/react-weather-app/assets/123549324/f23bcc3e-e040-4c78-a6ea-2c2199352f6a)
+
+
+
